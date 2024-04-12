@@ -6,5 +6,6 @@ int main() {
 	cin >> a >> b;
 	cout << a + b;
 	cout << "\nYou lame";
+	cout << "\nахахха";
 	return 0;
 }
