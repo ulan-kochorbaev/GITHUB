@@ -8,4 +8,5 @@ int main() {
 	cout << "\nYou lame";
 	cout << "\nахахха";
 	return 0;
+	cout << "изменил че то колбаски чивапчичи"
 }
