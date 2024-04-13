@@ -7,5 +7,6 @@ int main() {
 	cout << a + b;
 	cout << "\nYou lame";
 	cout << "\nахахха";
+	cout << "\n Я улан";
 	return 0;
 }
